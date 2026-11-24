@@ -20,12 +20,17 @@ mathematics of AI.
 | [**certgen**](https://github.com/kahyaoglu20/certgen) | *How Many Samples Does a Generative Evaluation Need?* Prospective sample-size design and floor-corrected reporting for Wasserstein evaluations of generative models; Lean 4 proofs. Preprint, in preparation for JMLR. |
 | [**abksvd-rpca**](https://github.com/kahyaoglu20/abksvd-rpca) | *Absorption and Lock-In in Tracker-Guided Streaming Subspace Background Models.* An absorption law for forgetting RPCA models, a closed-loop analysis of tracker feedback, and a CDnet 2014 evaluation. Preprint, in preparation for IEEE SPL. |
 
+### Open-source tools
+
+| | |
+|---|---|
+| [**hinote2pdf**](https://github.com/kahyaoglu20/hinote2pdf) | Turns Huawei Notes handwriting (`.hinote`) into razor-sharp vector PDFs: lossless, or HQ lossy at about a quarter of the size; on top of your imported PDFs and books, or the ink alone. Offline, drag and drop on Windows. [Project page](https://kahyaoglu20.github.io/projects/hinote2pdf/) · [latest release](https://github.com/kahyaoglu20/hinote2pdf/releases/latest) |
+
 ### Projects
 
 | | |
 |---|---|
 | [**mth-tracker**](https://github.com/kahyaoglu20/mth-tracker) | TOA/TDOA localisation and tracking with an EKF, at 0.97–1.00× the posterior Cramér–Rao bound, with a real-time interactive simulator. |
-| [**hinote2pdf**](https://github.com/kahyaoglu20/hinote2pdf) | Converts Huawei Notes handwriting (`.hinote`) into lossless vector PDFs: sharp at any zoom, with pen pressure, highlighters and imported PDFs kept. Open source, offline, drag and drop. |
 | [**char-gpt-from-scratch**](https://github.com/kahyaoglu20/char-gpt-from-scratch) | A two-block character-level GPT from fundamental tensor operations: NumPy with a hand-written autodiff engine, plus a MATLAB twin. |
 | [**ham10000-imbalance-study**](https://github.com/kahyaoglu20/ham10000-imbalance-study) | How loss functions and sampling change imbalanced skin-lesion classification on HAM10000. |
 
