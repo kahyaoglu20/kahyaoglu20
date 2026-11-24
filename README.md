@@ -25,6 +25,7 @@ mathematics of AI.
 | | |
 |---|---|
 | [**mth-tracker**](https://github.com/kahyaoglu20/mth-tracker) | TOA/TDOA localisation and tracking with an EKF, at 0.97–1.00× the posterior Cramér–Rao bound, with a real-time interactive simulator. |
+| [**hinote2pdf**](https://github.com/kahyaoglu20/hinote2pdf) | Converts Huawei Notes handwriting (`.hinote`) into lossless vector PDFs: sharp at any zoom, with pen pressure, highlighters and imported PDFs kept. Open source, offline, drag and drop. |
 | [**char-gpt-from-scratch**](https://github.com/kahyaoglu20/char-gpt-from-scratch) | A two-block character-level GPT from fundamental tensor operations: NumPy with a hand-written autodiff engine, plus a MATLAB twin. |
 | [**ham10000-imbalance-study**](https://github.com/kahyaoglu20/ham10000-imbalance-study) | How loss functions and sampling change imbalanced skin-lesion classification on HAM10000. |
 
